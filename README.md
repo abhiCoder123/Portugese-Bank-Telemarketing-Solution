@@ -1,6 +1,7 @@
 # Portugese-Bank-Telemarketing-Solution
 
 <br>
+
 ## Problem Statement :
 <br>
 The Portuguese Bank had run a telemarketing campaign in the past, making sales calls for a term-deposit product. Whether a prospect had bought the product or not is mentioned in the column named 'response'.
@@ -37,6 +38,7 @@ Step 6 : Making the Confusion Matrix
 <br>
 Step 7 : Defining the CAP (Cumulative Accuracy Profile) Curve Function
 <br>
+
 #### Step 8 : Generating the Cumulative Accuracy Profile Curve
 <br>
 In the Cumulative Accuracy Profile Curve Shown in the figure above , we can see three different curves. 
@@ -46,8 +48,11 @@ i)The blue line represents the random model ie., when we send out the marketing 
 ii)The grey lin represents the ideal model ie., when we send out the marketing scheme to      only those customers who will eventually give a positive response in the future ie., 
 100% conversion rate (ideal).
 <br>
+
 #### iii) The red curve represents our model. Here we reduce the marketing costs by 50 % and achieve 98.877 % of the prospects compared to random calling.
 <br>
+
 ## Summary 
 <br>
+
 ### As we can see the marketing team can now target a specific set of customers based on this model and reduce 50% of the total expenditure (random model) and achieve 98.877 % of the prospects compared to the random calling method.
